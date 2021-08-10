@@ -53,7 +53,7 @@ const getInfo = async(event) => {
         }catch{
             cityVal = " ";
             datahide.classList.add("data_hide");
-            city_name.innerText =  `please enter the proper city name`;
+            city_name.innerText =  `please enter the proper city name 12334`;
             console.log('please add the proper city name');
         }
         
